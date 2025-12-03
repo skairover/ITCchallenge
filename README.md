@@ -7,9 +7,9 @@ Due to university workload (affichages, project submissions, and interrogations)
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 - React (Vite)
 - TailwindCSS
 
 
-![Desktop Screenshot](..src/assets/sidebarScreenshot.png)
+![Desktop Screenshot](.src/assets/sidebarScreenshot.png)
